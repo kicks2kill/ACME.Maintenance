@@ -1,0 +1,8 @@
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\bin\Debug\ACME.Maintenance.Domain.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\bin\Debug\ACME.Maintenance.Domain.pdb
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\obj\Debug\ACME.Maintenance.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\obj\Debug\ACME.Maintenance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\obj\Debug\ACME.Maintenance.Domain.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\obj\Debug\ACME.Maintenance.Domain.pdb
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\bin\Debug\AutoMapper.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Domain\bin\Debug\AutoMapper.xml

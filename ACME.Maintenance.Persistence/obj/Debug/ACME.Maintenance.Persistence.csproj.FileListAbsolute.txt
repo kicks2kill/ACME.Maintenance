@@ -1,0 +1,10 @@
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Persistence.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Persistence.pdb
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Domain.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\ACME.Maintenance.Domain.pdb
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\obj\Debug\ACME.Maintenance.Persistence.pdb
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\AutoMapper.dll
+C:\Users\GreyHat\source\repos\ACME.Maintenance\ACME.Maintenance.Persistence\bin\Debug\AutoMapper.xml
